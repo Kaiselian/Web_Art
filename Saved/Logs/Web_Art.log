@@ -3542,3 +3542,141 @@ Scale3D: 1.000000 1.000000 1.000000
 [2024.04.19-22.56.15:125][224]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{1088ed0f-83ce-444c-8597-9e6d9e5d2caf}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=4576.65
 [2024.04.19-22.56.15:125][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
 [2024.04.19-22.56.15:129][225]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.19-23.03.17:144][212]LogSlate: Window 'National_Art_Gallery_anu_Plane_004' being destroyed
+[2024.04.19-23.03.17:147][212]LogSlate: Window 'National_Art_Gallery_anu_Plane_004' being destroyed
+[2024.04.19-23.03.17:183][212]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-23.03.17:183][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-23.03.17:224][212]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-23.03.17:225][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-23.03.17:276][212]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-23.03.17:276][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-23.03.17:324][212]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-23.03.17:324][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-23.03.17:377][212]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-23.03.17:377][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-23.03.17:428][212]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-23.03.17:428][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-23.03.17:473][212]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-23.03.17:474][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-23.03.17:518][212]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-23.03.17:518][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-23.03.17:560][212]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-23.03.17:562][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-23.03.17:606][212]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-23.03.17:606][212]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-23.03.18:126][214]LogSlate: Window 'Message Log' being destroyed
+[2024.04.19-23.03.18:129][214]LogSlate: Window 'Message Log' being destroyed
+[2024.04.19-23.04.14:940][499]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Aniket\Documents\1_Blender\1_VR_Hackathon\Frame-Painting.fbx)
+[2024.04.19-23.04.14:961][499]LogFbx: Loading FBX Scene from C:\Users\Aniket\Documents\1_Blender\1_VR_Hackathon\Frame-Painting.fbx
+[2024.04.19-23.04.14:969][499]LogFbx: FBX Scene Loaded Succesfully
+[2024.04.19-23.04.20:618][499]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.04.19-23.04.20:649][499]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Aniket\AppData\Local\Microsoft\Windows\INetCache\IE\Downloads\Frame1_BaseColor.png
+[2024.04.19-23.04.20:649][499]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Aniket\AppData\Local\Microsoft\Windows\INetCache\IE\Downloads\Frame1_Roughness.png
+[2024.04.19-23.04.20:654][499]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 907A9E6486B3D7CCE1BF67E7A6E5DDD6E6C5C8CE), compiling. 
+[2024.04.19-23.04.20:694][499]LogMaterial: Display: Missing cached shadermap for Moam_Lisa in PCD3D_SM5, Default, SM5 (DDC key hash: E95472F6528ADF97D25DDABE6D6BF785C526B69B), compiling. 
+[2024.04.19-23.04.20:697][499]LogTexture: Display: Building textures: /Game/1_Level/1_Painting/Leonardo_da_Vinci_-_Mona_Lisa.Leonardo_da_Vinci_-_Mona_Lisa (BGRA8, 401X599 X1X1) (Required Memory Estimate: 4.581432 MB), EncodeSpeed: Fast
+[2024.04.19-23.04.20:697][499]LogFbx: Display: Triangulating static mesh model_2
+[2024.04.19-23.04.20:711][499]LogStaticMesh: Display: Building static mesh Frame-Painting...
+[2024.04.19-23.04.20:724][499]LogStaticMesh: Built static mesh [0.01s] /Game/1_Level/1_Painting/Frame-Painting.Frame-Painting
+[2024.04.19-23.04.20:734][499]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.04.19-23.04.21:988][504]LogShaderCompilers: Display: ================================================
+[2024.04.19-23.04.21:988][504]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.19-23.04.21:988][504]LogShaderCompilers: Display: Total job queries 1006, among them cache hits 573 (56.96%)
+[2024.04.19-23.04.21:988][504]LogShaderCompilers: Display: Tracking 376 distinct input hashes that result in 128 distinct outputs (34.04%)
+[2024.04.19-23.04.21:988][504]LogShaderCompilers: Display: RAM used: 0.37 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2024.04.19-23.04.21:988][504]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display: Shaders Compiled: 163
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display: Jobs assigned 376, completed 376 (100.00%)
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display: Average time worker was idle: 107.37 s
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display: Time job spent in pending queue: average 0.63 s, longest 5.59 s
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display: Job execution time: average 1.10 s, max 4.02 s
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display: Job life time (pending + execution): average 1.72 s, max 7.83
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 65.52 s
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display: Jobs were issued in 376 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display: Average processing rate: 5.74 jobs/sec
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display: Effective parallelization: 5.16 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 3.48 sec, max 3.52 sec, min 3.45 sec)
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 3.33 sec, max 3.37 sec, min 3.28 sec)
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 2.83 sec, max 2.91 sec, min 2.76 sec)
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 2.83 sec, max 2.88 sec, min 2.79 sec)
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    2 times, average 2.58 sec, max 2.61 sec, min 2.54 sec)
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.35% of total time (compiled   47 times, average 0.74 sec, max 3.15 sec, min 0.37 sec)
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.26% of total time (compiled   47 times, average 0.74 sec, max 1.05 sec, min 0.48 sec)
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.49% of total time (compiled   25 times, average 0.74 sec, max 1.05 sec, min 0.55 sec)
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.92% of total time (compiled   14 times, average 1.19 sec, max 3.46 sec, min 0.68 sec)
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.92% of total time (compiled   14 times, average 1.19 sec, max 3.34 sec, min 0.70 sec)
+[2024.04.19-23.04.21:989][504]LogShaderCompilers: Display: ================================================
+[2024.04.19-23.04.31:132][ 46]LogSavePackage: Moving output files for package: /Game/1_Level/1_Painting/Leonardo_da_Vinci_-_Mona_Lisa
+[2024.04.19-23.04.31:132][ 46]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/Leonardo_da_Vinci_-_Mona_LisaCB1CF6EA499A89FEF5C020855C587CD1.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Painting/Leonardo_da_Vinci_-_Mona_Lisa.uasset'
+[2024.04.19-23.04.32:644][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_Level/1_Painting/Moam_Lisa" FILE="C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Painting/Moam_Lisa.uasset" SILENT=true
+[2024.04.19-23.04.32:648][ 46]LogSavePackage: Moving output files for package: /Game/1_Level/1_Painting/Moam_Lisa
+[2024.04.19-23.04.32:648][ 46]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/Moam_Lisa98FFAB554BD2CEA5ED497AAE2BF27231.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Painting/Moam_Lisa.uasset'
+[2024.04.19-23.04.32:670][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_Level/1_Painting/Material_001" FILE="C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Painting/Material_001.uasset" SILENT=true
+[2024.04.19-23.04.32:672][ 46]LogSavePackage: Moving output files for package: /Game/1_Level/1_Painting/Material_001
+[2024.04.19-23.04.32:672][ 46]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/Material_001988FD38E4290A359DC8AA49131651D86.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Painting/Material_001.uasset'
+[2024.04.19-23.04.32:679][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1_Level/1_Painting/Frame-Painting" FILE="C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Painting/Frame-Painting.uasset" SILENT=true
+[2024.04.19-23.04.32:682][ 46]LogSavePackage: Moving output files for package: /Game/1_Level/1_Painting/Frame-Painting
+[2024.04.19-23.04.32:682][ 46]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/Frame-Painting1B37682C45A18B28F7E378A42FB2B0D5.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Painting/Frame-Painting.uasset'
+[2024.04.19-23.04.32:692][ 46]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-23.04.32:692][ 46]LogContentValidation: Display: Validating Texture2D /Game/1_Level/1_Painting/Leonardo_da_Vinci_-_Mona_Lisa.Leonardo_da_Vinci_-_Mona_Lisa
+[2024.04.19-23.04.32:692][ 46]LogContentValidation: Display: Validating Material /Game/1_Level/1_Painting/Moam_Lisa.Moam_Lisa
+[2024.04.19-23.04.32:692][ 46]LogContentValidation: Display: Validating Material /Game/1_Level/1_Painting/Material_001.Material_001
+[2024.04.19-23.04.32:692][ 46]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Painting/Frame-Painting.Frame-Painting
+[2024.04.19-23.05.05:443][722]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/1_Level/1_Painting/Moam_Lisa.Moam_Lisa
+[2024.04.19-23.05.05:447][722]LogMaterial: Display: Missing cached shadermap for Preview:Moam_Lisa in PCD3D_SM5, Default, SM5 (DDC key hash: A321DCF399157DABB7B56100FCB2F408D266C2F5), compiling. 
+[2024.04.19-23.05.05:468][722]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-23.05.05:575][722]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v13' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2024.04.19-23.05.05:580][722]LogMaterial: Display: Missing cached shadermap for Preview:Moam_Lisa in PCD3D_SM5, Default, SM5 (DDC key hash: F54DBAC83184B91235BB78770F0F31DA23AF2AF9), compiling. 
+[2024.04.19-23.05.05:586][722]LogMaterial: Display: Missing cached shadermap for Preview:Moam_Lisa in PCD3D_SM5, Default, SM5 (DDC key hash: B934C8C9ED842BCB56AA88FEC361E58A8F03BAAB), compiling. 
+[2024.04.19-23.05.05:588][722]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D66AFA304301A2CBCF45FD75AD00D1F9507E488), compiling. 
+[2024.04.19-23.05.05:598][722]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.19-23.05.05:598][722]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.19-23.05.05:598][722]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.19-23.05.05:598][722]MaterialEditorStats: Shader Count: 0
+[2024.04.19-23.05.05:604][722]LogViewport: Scene viewport resized to 158x54, mode Windowed.
+[2024.04.19-23.05.05:669][724]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.19-23.05.05:669][724]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.19-23.05.05:669][724]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.19-23.05.05:669][724]MaterialEditorStats: Shader Count: 4
+[2024.04.19-23.05.06:786][788]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2024.04.19-23.05.29:346][105]LogSlate: Window 'Moam_Lisa' being destroyed
+[2024.04.19-23.05.29:358][105]LogSlate: Window 'Moam_Lisa' being destroyed
+[2024.04.19-23.05.29:401][105]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-23.05.29:401][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-23.06.08:024][342]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/1_Level/1_Painting/Moam_Lisa.Moam_Lisa
+[2024.04.19-23.06.08:025][342]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F47B5C71A1D141C8D9559D4EF1997D05DE268B53), compiling. 
+[2024.04.19-23.06.08:039][342]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-23.06.08:263][342]LogSlate: The tab "MaterialEditor_Strata" attempted to spawn in layout 'Standalone_MaterialEditor_Layout_v13' but failed for some reason. An "unrecognized tab" will be returned instead.
+[2024.04.19-23.06.08:269][342]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F4CA7628F7D6520A0ABF23BE13CCCEF031B909E), compiling. 
+[2024.04.19-23.06.08:273][342]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1CE86C88F012B03F4CDDB1A9FAB52DBB14AB02FD), compiling. 
+[2024.04.19-23.06.08:274][342]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BF4D6604010811BFB77A00C4DF76815E73B0DF05), compiling. 
+[2024.04.19-23.06.08:290][342]MaterialEditorStats: Texture samplers: 0/16
+[2024.04.19-23.06.08:290][342]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.19-23.06.08:290][342]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.19-23.06.08:290][342]MaterialEditorStats: Shader Count: 0
+[2024.04.19-23.06.08:294][342]LogViewport: Scene viewport resized to 376x445, mode Windowed.
+[2024.04.19-23.06.08:819][372]MaterialEditorStats: Texture samplers: 1/16
+[2024.04.19-23.06.08:819][372]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.19-23.06.08:819][372]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.19-23.06.08:819][372]MaterialEditorStats: Shader Count: 1
+[2024.04.19-23.06.09:117][389]MaterialEditorStats: Texture samplers: 3/16
+[2024.04.19-23.06.09:117][389]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.04.19-23.06.09:117][389]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.04.19-23.06.09:117][389]MaterialEditorStats: Shader Count: 3
+[2024.04.19-23.06.15:827][786]LogViewport: Scene viewport resized to 384x445, mode Windowed.
+[2024.04.19-23.06.15:864][788]LogViewport: Scene viewport resized to 391x445, mode Windowed.
+[2024.04.19-23.06.15:899][790]LogViewport: Scene viewport resized to 431x445, mode Windowed.
+[2024.04.19-23.06.15:948][792]LogViewport: Scene viewport resized to 460x445, mode Windowed.
+[2024.04.19-23.06.15:996][794]LogViewport: Scene viewport resized to 472x445, mode Windowed.
+[2024.04.19-23.06.16:016][795]LogViewport: Scene viewport resized to 476x445, mode Windowed.
+[2024.04.19-23.06.16:058][797]LogViewport: Scene viewport resized to 499x445, mode Windowed.
+[2024.04.19-23.06.16:096][799]LogViewport: Scene viewport resized to 517x445, mode Windowed.
+[2024.04.19-23.06.16:134][801]LogViewport: Scene viewport resized to 528x445, mode Windowed.
+[2024.04.19-23.06.16:180][803]LogViewport: Scene viewport resized to 558x445, mode Windowed.
+[2024.04.19-23.06.16:218][805]LogViewport: Scene viewport resized to 565x445, mode Windowed.
+[2024.04.19-23.06.16:259][807]LogViewport: Scene viewport resized to 573x445, mode Windowed.
+[2024.04.19-23.06.16:399][815]LogViewport: Scene viewport resized to 604x445, mode Windowed.
+[2024.04.19-23.06.16:438][817]LogViewport: Scene viewport resized to 675x445, mode Windowed.
+[2024.04.19-23.07.05:363][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
