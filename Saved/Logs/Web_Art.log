@@ -2857,3 +2857,688 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.04.19-22.01.25:099][356]LogFileHelpers: No new changes to save!
 [2024.04.19-22.01.25:107][356]AssetCheck: New page: Asset Save: 1
 [2024.04.19-22.01.25:107][356]LogContentValidation: Display: Validating World /Game/1.1
+[2024.04.19-22.26.23:789][928]LogDerivedDataCache: C:/Users/Aniket/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.727 and deleted 0 file(s) with total size 0 MiB.
+[2024.04.19-22.41.16:576][334]LogViewport: Scene viewport resized to 1526x399, mode Windowed.
+[2024.04.19-22.41.16:629][336]LogViewport: Scene viewport resized to 1526x422, mode Windowed.
+[2024.04.19-22.41.16:666][338]LogViewport: Scene viewport resized to 1526x445, mode Windowed.
+[2024.04.19-22.41.16:703][340]LogViewport: Scene viewport resized to 1526x465, mode Windowed.
+[2024.04.19-22.41.16:736][342]LogViewport: Scene viewport resized to 1526x486, mode Windowed.
+[2024.04.19-22.41.16:777][344]LogViewport: Scene viewport resized to 1526x519, mode Windowed.
+[2024.04.19-22.41.16:816][346]LogViewport: Scene viewport resized to 1526x531, mode Windowed.
+[2024.04.19-22.41.16:849][348]LogViewport: Scene viewport resized to 1526x550, mode Windowed.
+[2024.04.19-22.41.16:883][350]LogViewport: Scene viewport resized to 1526x561, mode Windowed.
+[2024.04.19-22.41.16:916][352]LogViewport: Scene viewport resized to 1526x571, mode Windowed.
+[2024.04.19-22.41.16:951][354]LogViewport: Scene viewport resized to 1526x584, mode Windowed.
+[2024.04.19-22.41.16:984][356]LogViewport: Scene viewport resized to 1526x608, mode Windowed.
+[2024.04.19-22.41.17:018][358]LogViewport: Scene viewport resized to 1526x618, mode Windowed.
+[2024.04.19-22.41.17:058][360]LogViewport: Scene viewport resized to 1526x628, mode Windowed.
+[2024.04.19-22.41.17:112][363]LogViewport: Scene viewport resized to 1526x640, mode Windowed.
+[2024.04.19-22.41.17:151][365]LogViewport: Scene viewport resized to 1526x648, mode Windowed.
+[2024.04.19-22.41.17:184][367]LogViewport: Scene viewport resized to 1526x657, mode Windowed.
+[2024.04.19-22.41.17:217][369]LogViewport: Scene viewport resized to 1526x668, mode Windowed.
+[2024.04.19-22.41.17:250][371]LogViewport: Scene viewport resized to 1526x680, mode Windowed.
+[2024.04.19-22.41.17:284][373]LogViewport: Scene viewport resized to 1526x689, mode Windowed.
+[2024.04.19-22.41.17:302][374]LogViewport: Scene viewport resized to 1526x696, mode Windowed.
+[2024.04.19-22.41.17:339][376]LogViewport: Scene viewport resized to 1526x705, mode Windowed.
+[2024.04.19-22.41.17:374][378]LogViewport: Scene viewport resized to 1526x718, mode Windowed.
+[2024.04.19-22.41.17:406][380]LogViewport: Scene viewport resized to 1526x729, mode Windowed.
+[2024.04.19-22.41.17:427][381]LogViewport: Scene viewport resized to 1526x733, mode Windowed.
+[2024.04.19-22.41.17:478][383]LogViewport: Scene viewport resized to 1526x745, mode Windowed.
+[2024.04.19-22.41.17:519][385]LogViewport: Scene viewport resized to 1526x746, mode Windowed.
+[2024.04.19-22.41.17:576][388]LogViewport: Scene viewport resized to 1526x751, mode Windowed.
+[2024.04.19-22.41.25:580][866]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-22.41.25:601][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-22.41.25:618][866]PIE: New page: PIE session: 1 (20-Apr-2024, 9:41:25 am)
+[2024.04.19-22.41.25:642][866]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.04.19-22.41.25:643][866]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.04.19-22.41.25:645][866]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_1
+[2024.04.19-22.41.25:675][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028353s)
+[2024.04.19-22.41.25:675][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1.1 to /Game/UEDPIE_0_1.1 (0.029430s)
+[2024.04.19-22.41.25:675][866]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.19-22.41.25:680][866]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.41.25:683][866]LogAIModule: Creating AISystem for world 1
+[2024.04.19-22.41.25:688][866]LogPlayLevel: PIE: World Init took: (0.013897s)
+[2024.04.19-22.41.25:713][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.04.19-22.41.25:721][866]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.19-22.41.25:722][866]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-22.41.25:722][866]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-22.41.25:722][866]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-22.41.25:723][866]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-22.41.25:723][866]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.19-22.41.25:723][866]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.19-22.41.25:723][866]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.19-22.41.25:723][866]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-22.41.25:725][866]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-22.41.25:725][866]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-22.41.25:725][866]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-22.41.25:730][866]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-22.41.25:763][866]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.19-22.41.25:769][866]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-22.41.25:769][866]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-22.41.25:770][866]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-22.41.25:775][866]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.04.19-22.41.25:775][866]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.04.19-22.41.25:777][866]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.04.19-22.41.25:777][866]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.04.19-22.41.25:777][866]LogInit: FAudioDevice initialized.
+[2024.04.19-22.41.25:777][866]LogAudio: Display: Audio Device (ID: 2) registered with world '1'.
+[2024.04.19-22.41.25:816][866]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.19-22.41.25:821][866]LogWorld: Bringing World /Game/UEDPIE_0_1.1 up for play (max tick rate 60) at 2024.04.20-04.11.25
+[2024.04.19-22.41.25:823][866]LogWorld: Bringing up level for play took: 0.003817
+[2024.04.19-22.41.25:828][866]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.04.19-22.41.25:920][866]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1401.697 Y=-164.673 Z=306.024] for [BP_FirstPersonCharacter_C]
+[2024.04.19-22.41.25:921][866]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type BP_FirstPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 93.435583 Roll 0.000000
+Translation: -1401.696533 -164.672551 306.024367
+Scale3D: 1.000000 1.000000 1.000000
+
+[2024.04.19-22.41.25:927][866]PIE: Server logged in
+[2024.04.19-22.41.25:928][866]PIE: Play in editor total start time 0.333 seconds.
+[2024.04.19-22.41.28:195][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-22.41.28:195][981]LogWorld: BeginTearingDown for /Game/UEDPIE_0_1
+[2024.04.19-22.41.28:197][981]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.41.28:198][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.41.28:217][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-22.41.28:219][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.41.28:224][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-22.41.28:226][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.19-22.41.28:228][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.04.19-22.41.28:242][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.04.19-22.41.28:276][982]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.04.19-22.41.28:874][ 16]Cmd: SELECT NONE
+[2024.04.19-22.41.34:109][321]LogViewport: Scene viewport resized to 1526x737, mode Windowed.
+[2024.04.19-22.41.34:127][322]LogViewport: Scene viewport resized to 1526x720, mode Windowed.
+[2024.04.19-22.41.34:174][324]LogViewport: Scene viewport resized to 1526x630, mode Windowed.
+[2024.04.19-22.41.34:207][326]LogViewport: Scene viewport resized to 1526x578, mode Windowed.
+[2024.04.19-22.41.34:247][328]LogViewport: Scene viewport resized to 1526x522, mode Windowed.
+[2024.04.19-22.41.34:281][330]LogViewport: Scene viewport resized to 1526x477, mode Windowed.
+[2024.04.19-22.41.34:313][332]LogViewport: Scene viewport resized to 1526x459, mode Windowed.
+[2024.04.19-22.41.49:607][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C
+[2024.04.19-22.41.49:607][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C
+[2024.04.19-22.41.49:617][227]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter as actor: BP_FirstPersonCharacter_C /Game/1.1:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2024.04.19-22.41.49:619][227]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter as actor: BP_FirstPersonCharacter_C /Game/1.1:PersistentLevel.BP_FirstPersonCharacter_C_0
+[2024.04.19-22.41.51:813][357]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C
+[2024.04.19-22.41.51:813][357]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C
+[2024.04.19-22.41.51:819][357]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter as actor: BP_FirstPersonCharacter_C /Game/1.1:PersistentLevel.BP_FirstPersonCharacter_C_1
+[2024.04.19-22.41.51:821][357]LogActorFactory: Actor Factory spawned Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter as actor: BP_FirstPersonCharacter_C /Game/1.1:PersistentLevel.BP_FirstPersonCharacter_C_1
+[2024.04.19-22.41.51:928][357]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.04.19-22.41.51:954][358]LogViewport: Scene viewport resized to 481x145, mode Windowed.
+[2024.04.19-22.42.06:757][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-22.42.06:765][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.19-22.42.06:777][193]LogSavePackage: Moving output files for package: /Game/1
+[2024.04.19-22.42.06:777][193]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/12FB61CC84ADD1AE9B22523B8DE90CBFF.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1.umap'
+[2024.04.19-22.42.06:791][193]LogFileHelpers: No new changes to save!
+[2024.04.19-22.42.06:802][193]AssetCheck: New page: Asset Save: 1
+[2024.04.19-22.42.06:802][193]LogContentValidation: Display: Validating World /Game/1.1
+[2024.04.19-22.42.10:912][430]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-22.42.10:917][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-22.42.10:917][430]PIE: New page: PIE session: 1 (20-Apr-2024, 9:42:10 am)
+[2024.04.19-22.42.10:917][430]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_1
+[2024.04.19-22.42.10:922][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004857s)
+[2024.04.19-22.42.10:922][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1.1 to /Game/UEDPIE_0_1.1 (0.004978s)
+[2024.04.19-22.42.10:922][430]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.19-22.42.10:922][430]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.42.10:923][430]LogAIModule: Creating AISystem for world 1
+[2024.04.19-22.42.10:924][430]LogPlayLevel: PIE: World Init took: (0.001459s)
+[2024.04.19-22.42.10:929][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.04.19-22.42.10:931][430]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.04.19-22.42.10:931][430]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-22.42.10:931][430]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-22.42.10:931][430]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-22.42.10:931][430]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-22.42.10:931][430]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.19-22.42.10:931][430]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.19-22.42.10:931][430]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.19-22.42.10:931][430]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-22.42.10:931][430]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-22.42.10:931][430]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-22.42.10:931][430]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-22.42.10:932][430]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-22.42.10:948][430]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.19-22.42.10:949][430]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-22.42.10:950][430]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-22.42.10:950][430]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-22.42.10:951][430]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.04.19-22.42.10:951][430]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.04.19-22.42.10:952][430]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.04.19-22.42.10:952][430]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.04.19-22.42.10:952][430]LogInit: FAudioDevice initialized.
+[2024.04.19-22.42.10:952][430]LogAudio: Display: Audio Device (ID: 3) registered with world '1'.
+[2024.04.19-22.42.10:963][430]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.19-22.42.10:964][430]LogWorld: Bringing World /Game/UEDPIE_0_1.1 up for play (max tick rate 60) at 2024.04.20-04.12.10
+[2024.04.19-22.42.10:965][430]LogWorld: Bringing up level for play took: 0.001586
+[2024.04.19-22.42.10:966][430]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2024.04.19-22.42.10:974][430]PIE: Server logged in
+[2024.04.19-22.42.10:975][430]PIE: Play in editor total start time 0.058 seconds.
+[2024.04.19-22.42.13:743][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-22.42.13:743][591]LogWorld: BeginTearingDown for /Game/UEDPIE_0_1
+[2024.04.19-22.42.13:743][591]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.42.13:745][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.42.13:753][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-22.42.13:754][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.42.13:758][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.19-22.42.13:759][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.19-22.42.13:760][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.04.19-22.42.13:763][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-22.42.13:765][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.04.19-22.42.13:817][593]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.04.19-22.42.15:564][696]LogViewport: Scene viewport resized to 1526x470, mode Windowed.
+[2024.04.19-22.42.15:598][698]LogViewport: Scene viewport resized to 1526x499, mode Windowed.
+[2024.04.19-22.42.15:632][700]LogViewport: Scene viewport resized to 1526x524, mode Windowed.
+[2024.04.19-22.42.15:667][702]LogViewport: Scene viewport resized to 1526x560, mode Windowed.
+[2024.04.19-22.42.15:706][704]LogViewport: Scene viewport resized to 1526x593, mode Windowed.
+[2024.04.19-22.42.15:741][706]LogViewport: Scene viewport resized to 1526x620, mode Windowed.
+[2024.04.19-22.42.15:782][708]LogViewport: Scene viewport resized to 1526x651, mode Windowed.
+[2024.04.19-22.42.15:821][710]LogViewport: Scene viewport resized to 1526x685, mode Windowed.
+[2024.04.19-22.42.15:860][712]LogViewport: Scene viewport resized to 1526x700, mode Windowed.
+[2024.04.19-22.42.15:902][714]LogViewport: Scene viewport resized to 1526x716, mode Windowed.
+[2024.04.19-22.42.15:948][716]LogViewport: Scene viewport resized to 1526x740, mode Windowed.
+[2024.04.19-22.42.15:990][718]LogViewport: Scene viewport resized to 1526x754, mode Windowed.
+[2024.04.19-22.42.16:033][720]LogViewport: Scene viewport resized to 1526x781, mode Windowed.
+[2024.04.19-22.42.16:080][722]LogViewport: Scene viewport resized to 1526x793, mode Windowed.
+[2024.04.19-22.42.17:230][789]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-22.42.17:234][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-22.42.17:234][789]PIE: New page: PIE session: 1 (20-Apr-2024, 9:42:17 am)
+[2024.04.19-22.42.17:234][789]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_1
+[2024.04.19-22.42.17:237][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002903s)
+[2024.04.19-22.42.17:237][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1.1 to /Game/UEDPIE_0_1.1 (0.003009s)
+[2024.04.19-22.42.17:237][789]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.19-22.42.17:237][789]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.42.17:238][789]LogAIModule: Creating AISystem for world 1
+[2024.04.19-22.42.17:238][789]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2024.04.19-22.42.17:243][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.04.19-22.42.17:244][789]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.19-22.42.17:244][789]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-22.42.17:244][789]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-22.42.17:244][789]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-22.42.17:244][789]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-22.42.17:244][789]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.19-22.42.17:244][789]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.19-22.42.17:244][789]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.19-22.42.17:244][789]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-22.42.17:244][789]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-22.42.17:244][789]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-22.42.17:244][789]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-22.42.17:246][789]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-22.42.17:262][789]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.19-22.42.17:262][789]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-22.42.17:262][789]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-22.42.17:262][789]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-22.42.17:263][789]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.19-22.42.17:263][789]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.04.19-22.42.17:264][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.19-22.42.17:264][789]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.19-22.42.17:264][789]LogInit: FAudioDevice initialized.
+[2024.04.19-22.42.17:264][789]LogAudio: Display: Audio Device (ID: 4) registered with world '1'.
+[2024.04.19-22.42.17:275][789]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.19-22.42.17:276][789]LogWorld: Bringing World /Game/UEDPIE_0_1.1 up for play (max tick rate 60) at 2024.04.20-04.12.17
+[2024.04.19-22.42.17:277][789]LogWorld: Bringing up level for play took: 0.001296
+[2024.04.19-22.42.17:279][789]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.04.19-22.42.17:280][789]PIE: Server logged in
+[2024.04.19-22.42.17:281][789]PIE: Play in editor total start time 0.047 seconds.
+[2024.04.19-22.42.22:604][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-22.42.22:604][103]LogWorld: BeginTearingDown for /Game/UEDPIE_0_1
+[2024.04.19-22.42.22:604][103]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.42.22:605][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.42.22:611][103]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-22.42.22:612][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.42.22:617][103]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-22.42.22:617][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.19-22.42.22:619][103]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.19-22.42.22:624][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.04.19-22.42.22:678][105]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.04.19-22.42.26:546][322]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-22.42.26:552][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.04.19-22.42.26:560][322]LogSavePackage: Moving output files for package: /Game/1
+[2024.04.19-22.42.26:560][322]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/1117C7C224E35A6D8D37049BB916F8707.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1.umap'
+[2024.04.19-22.42.26:569][322]LogFileHelpers: No new changes to save!
+[2024.04.19-22.42.26:579][322]AssetCheck: New page: Asset Save: 1
+[2024.04.19-22.42.26:579][322]LogContentValidation: Display: Validating World /Game/1.1
+[2024.04.19-22.42.32:302][659]LogViewport: Scene viewport resized to 1526x787, mode Windowed.
+[2024.04.19-22.42.32:336][661]LogViewport: Scene viewport resized to 1526x775, mode Windowed.
+[2024.04.19-22.42.32:378][663]LogViewport: Scene viewport resized to 1526x719, mode Windowed.
+[2024.04.19-22.42.32:424][665]LogViewport: Scene viewport resized to 1526x621, mode Windowed.
+[2024.04.19-22.42.32:467][667]LogViewport: Scene viewport resized to 1526x532, mode Windowed.
+[2024.04.19-22.42.32:491][668]LogViewport: Scene viewport resized to 1526x488, mode Windowed.
+[2024.04.19-22.42.32:536][670]LogViewport: Scene viewport resized to 1526x437, mode Windowed.
+[2024.04.19-22.42.32:569][672]LogViewport: Scene viewport resized to 1526x421, mode Windowed.
+[2024.04.19-22.42.32:603][674]LogViewport: Scene viewport resized to 1526x411, mode Windowed.
+[2024.04.19-22.42.32:637][676]LogViewport: Scene viewport resized to 1526x384, mode Windowed.
+[2024.04.19-22.42.32:670][678]LogViewport: Scene viewport resized to 1526x368, mode Windowed.
+[2024.04.19-22.42.32:703][680]LogViewport: Scene viewport resized to 1526x353, mode Windowed.
+[2024.04.19-22.42.36:629][908]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_001.National_Art_Gallery_anu_sofa_geo_Leather_mat_0_001
+[2024.04.19-22.42.36:678][908]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.42.36:959][908]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.42.53:776][771]LogSlate: Window 'Message' being destroyed
+[2024.04.19-22.42.53:784][771]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished
+(Selecting 'No' will cause all changes to be lost!)
+[2024.04.19-22.42.54:329][771]LogMaterial: Display: Missing cached shadermap for Preview:M_Wood_Floor_Walnut_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: B34B18B1BCD575DF976FEEF4C6A8B7B2BDDFEBE6), compiling. 
+[2024.04.19-22.42.54:340][771]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: 81E549236C7343E7F7617D02E9A54F2D4FED5C5B), compiling. 
+[2024.04.19-22.42.54:386][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: ================================================
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: Total job queries 979, among them cache hits 567 (57.92%)
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: Tracking 355 distinct input hashes that result in 114 distinct outputs (32.11%)
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: RAM used: 0.33 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: Shaders Compiled: 159
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: Jobs assigned 359, completed 355 (98.89%)
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: Average time worker was idle: 63.46 s
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: Time job spent in pending queue: average 0.63 s, longest 5.59 s
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: Job execution time: average 1.10 s, max 4.02 s
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: Job life time (pending + execution): average 1.73 s, max 7.83
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 62.25 s
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: Jobs were issued in 359 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: Average processing rate: 5.70 jobs/sec
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: Effective parallelization: 5.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 3.48 sec, max 3.52 sec, min 3.45 sec)
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 3.33 sec, max 3.37 sec, min 3.28 sec)
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    2 times, average 2.83 sec, max 2.91 sec, min 2.76 sec)
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 2.83 sec, max 2.88 sec, min 2.79 sec)
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    3 times, average 2.66 sec, max 3.58 sec, min 0.93 sec)
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.91% of total time (compiled   47 times, average 0.74 sec, max 3.15 sec, min 0.37 sec)
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.83% of total time (compiled   47 times, average 0.74 sec, max 1.05 sec, min 0.48 sec)
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.79% of total time (compiled   25 times, average 0.74 sec, max 1.05 sec, min 0.55 sec)
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 4.86% of total time (compiled   13 times, average 1.20 sec, max 3.46 sec, min 0.68 sec)
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.86% of total time (compiled   13 times, average 1.20 sec, max 3.34 sec, min 0.70 sec)
+[2024.04.19-22.42.54:588][771]LogShaderCompilers: Display: ================================================
+[2024.04.19-22.42.55:354][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.04.19-22.42.55:455][771]LogSlate: Window 'National_Art_Gallery_anu_sofa_geo_Leather_mat_0_001' being destroyed
+[2024.04.19-22.42.55:458][771]LogSlate: Window 'National_Art_Gallery_anu_sofa_geo_Leather_mat_0_001' being destroyed
+[2024.04.19-22.42.55:477][771]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.42.55:477][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.42.55:518][771]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.42.55:518][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.42.55:553][771]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.42.55:553][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.42.55:610][771]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.42.55:610][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.43.00:548][ 43]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Plane.National_Art_Gallery_anu_Plane
+[2024.04.19-22.43.00:636][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.43.00:832][ 43]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.43.09:917][562]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Plane
+[2024.04.19-22.43.09:918][562]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Plane9CFCE3BD41019DDCE2C271B973720528.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Plane.uasset'
+[2024.04.19-22.43.09:929][562]AssetCheck: New page: Asset Save: National_Art_Gallery_anu_Plane
+[2024.04.19-22.43.09:929][562]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Plane.National_Art_Gallery_anu_Plane
+[2024.04.19-22.43.13:795][791]LogViewport: Scene viewport resized to 1526x365, mode Windowed.
+[2024.04.19-22.43.13:814][792]LogViewport: Scene viewport resized to 1526x381, mode Windowed.
+[2024.04.19-22.43.13:853][794]LogViewport: Scene viewport resized to 1526x414, mode Windowed.
+[2024.04.19-22.43.13:872][795]LogViewport: Scene viewport resized to 1526x457, mode Windowed.
+[2024.04.19-22.43.13:920][797]LogViewport: Scene viewport resized to 1526x530, mode Windowed.
+[2024.04.19-22.43.13:956][799]LogViewport: Scene viewport resized to 1526x583, mode Windowed.
+[2024.04.19-22.43.13:987][800]LogViewport: Scene viewport resized to 1526x613, mode Windowed.
+[2024.04.19-22.43.14:026][801]LogViewport: Scene viewport resized to 1526x662, mode Windowed.
+[2024.04.19-22.43.14:076][803]LogViewport: Scene viewport resized to 1526x714, mode Windowed.
+[2024.04.19-22.43.14:118][805]LogViewport: Scene viewport resized to 1526x739, mode Windowed.
+[2024.04.19-22.43.14:169][807]LogViewport: Scene viewport resized to 1526x780, mode Windowed.
+[2024.04.19-22.43.14:221][809]LogViewport: Scene viewport resized to 1526x786, mode Windowed.
+[2024.04.19-22.43.15:217][859]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-22.43.15:221][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-22.43.15:221][859]PIE: New page: PIE session: 1 (20-Apr-2024, 9:43:15 am)
+[2024.04.19-22.43.15:222][859]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_1
+[2024.04.19-22.43.15:224][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003094s)
+[2024.04.19-22.43.15:224][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1.1 to /Game/UEDPIE_0_1.1 (0.003167s)
+[2024.04.19-22.43.15:224][859]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.19-22.43.15:224][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.43.15:225][859]LogAIModule: Creating AISystem for world 1
+[2024.04.19-22.43.15:225][859]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2024.04.19-22.43.15:244][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.04.19-22.43.15:247][859]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.04.19-22.43.15:247][859]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-22.43.15:247][859]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-22.43.15:247][859]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-22.43.15:247][859]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-22.43.15:247][859]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.19-22.43.15:247][859]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.19-22.43.15:247][859]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.19-22.43.15:247][859]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-22.43.15:247][859]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-22.43.15:247][859]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-22.43.15:247][859]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-22.43.15:249][859]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-22.43.15:267][859]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.19-22.43.15:268][859]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-22.43.15:268][859]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-22.43.15:268][859]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-22.43.15:269][859]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.04.19-22.43.15:269][859]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.04.19-22.43.15:270][859]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.04.19-22.43.15:270][859]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.04.19-22.43.15:270][859]LogInit: FAudioDevice initialized.
+[2024.04.19-22.43.15:270][859]LogAudio: Display: Audio Device (ID: 5) registered with world '1'.
+[2024.04.19-22.43.15:286][859]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.19-22.43.15:288][859]LogWorld: Bringing World /Game/UEDPIE_0_1.1 up for play (max tick rate 60) at 2024.04.20-04.13.15
+[2024.04.19-22.43.15:288][859]LogWorld: Bringing up level for play took: 0.001606
+[2024.04.19-22.43.15:290][859]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.04.19-22.43.15:290][859]PIE: Server logged in
+[2024.04.19-22.43.15:292][859]PIE: Play in editor total start time 0.071 seconds.
+[2024.04.19-22.43.31:634][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-22.43.31:634][832]LogWorld: BeginTearingDown for /Game/UEDPIE_0_1
+[2024.04.19-22.43.31:634][832]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.43.31:635][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.43.31:647][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-22.43.31:648][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.43.31:654][832]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.19-22.43.31:654][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.19-22.43.31:655][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.04.19-22.43.31:658][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-22.43.31:660][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.04.19-22.43.31:692][833]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.04.19-22.43.40:838][270]LogViewport: Scene viewport resized to 1526x782, mode Windowed.
+[2024.04.19-22.43.40:897][272]LogViewport: Scene viewport resized to 1526x745, mode Windowed.
+[2024.04.19-22.43.40:951][274]LogViewport: Scene viewport resized to 1526x729, mode Windowed.
+[2024.04.19-22.43.41:005][276]LogViewport: Scene viewport resized to 1526x728, mode Windowed.
+[2024.04.19-22.43.41:126][282]LogViewport: Scene viewport resized to 1526x724, mode Windowed.
+[2024.04.19-22.43.41:188][284]LogViewport: Scene viewport resized to 1526x714, mode Windowed.
+[2024.04.19-22.43.41:239][286]LogViewport: Scene viewport resized to 1526x713, mode Windowed.
+[2024.04.19-22.43.41:297][288]LogViewport: Scene viewport resized to 1526x702, mode Windowed.
+[2024.04.19-22.43.41:345][290]LogViewport: Scene viewport resized to 1526x699, mode Windowed.
+[2024.04.19-22.43.41:431][294]LogViewport: Scene viewport resized to 1526x695, mode Windowed.
+[2024.04.19-22.43.41:489][296]LogViewport: Scene viewport resized to 1526x692, mode Windowed.
+[2024.04.19-22.43.41:642][304]LogViewport: Scene viewport resized to 1526x683, mode Windowed.
+[2024.04.19-22.43.41:709][306]LogViewport: Scene viewport resized to 1526x665, mode Windowed.
+[2024.04.19-22.43.41:763][308]LogViewport: Scene viewport resized to 1526x647, mode Windowed.
+[2024.04.19-22.43.41:815][310]LogViewport: Scene viewport resized to 1526x638, mode Windowed.
+[2024.04.19-22.43.41:869][312]LogViewport: Scene viewport resized to 1526x626, mode Windowed.
+[2024.04.19-22.43.41:920][314]LogViewport: Scene viewport resized to 1526x618, mode Windowed.
+[2024.04.19-22.43.41:973][316]LogViewport: Scene viewport resized to 1526x604, mode Windowed.
+[2024.04.19-22.43.42:029][318]LogViewport: Scene viewport resized to 1526x593, mode Windowed.
+[2024.04.19-22.43.42:076][320]LogViewport: Scene viewport resized to 1526x587, mode Windowed.
+[2024.04.19-22.43.42:190][326]LogViewport: Scene viewport resized to 1526x580, mode Windowed.
+[2024.04.19-22.43.42:252][328]LogViewport: Scene viewport resized to 1526x576, mode Windowed.
+[2024.04.19-22.43.42:300][330]LogViewport: Scene viewport resized to 1526x573, mode Windowed.
+[2024.04.19-22.43.42:969][366]LogViewport: Scene viewport resized to 1526x568, mode Windowed.
+[2024.04.19-22.43.43:037][368]LogViewport: Scene viewport resized to 1526x540, mode Windowed.
+[2024.04.19-22.43.43:068][369]LogViewport: Scene viewport resized to 1526x529, mode Windowed.
+[2024.04.19-22.43.43:126][371]LogViewport: Scene viewport resized to 1526x494, mode Windowed.
+[2024.04.19-22.43.43:164][373]LogViewport: Scene viewport resized to 1526x481, mode Windowed.
+[2024.04.19-22.43.43:213][375]LogViewport: Scene viewport resized to 1526x460, mode Windowed.
+[2024.04.19-22.43.43:260][377]LogViewport: Scene viewport resized to 1526x450, mode Windowed.
+[2024.04.19-22.43.43:305][379]LogViewport: Scene viewport resized to 1526x432, mode Windowed.
+[2024.04.19-22.43.43:349][381]LogViewport: Scene viewport resized to 1526x392, mode Windowed.
+[2024.04.19-22.43.43:394][383]LogViewport: Scene viewport resized to 1526x378, mode Windowed.
+[2024.04.19-22.43.43:444][385]LogViewport: Scene viewport resized to 1526x366, mode Windowed.
+[2024.04.19-22.43.43:483][387]LogViewport: Scene viewport resized to 1526x343, mode Windowed.
+[2024.04.19-22.43.43:528][389]LogViewport: Scene viewport resized to 1526x318, mode Windowed.
+[2024.04.19-22.43.43:571][391]LogViewport: Scene viewport resized to 1526x300, mode Windowed.
+[2024.04.19-22.43.43:594][392]LogViewport: Scene viewport resized to 1526x284, mode Windowed.
+[2024.04.19-22.43.43:643][394]LogViewport: Scene viewport resized to 1526x259, mode Windowed.
+[2024.04.19-22.43.43:679][396]LogViewport: Scene viewport resized to 1526x258, mode Windowed.
+[2024.04.19-22.43.44:840][461]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_001.National_Art_Gallery_anu_sofa_geo_Leather_mat_0_001
+[2024.04.19-22.43.44:863][461]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.43.45:056][461]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.44.00:357][126]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_001) ...
+[2024.04.19-22.44.06:133][346]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_001
+[2024.04.19-22.44.06:133][346]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_sofa_geE9C1237D446A6EF74BB68BB47EF39E03.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_001.uasset'
+[2024.04.19-22.44.06:144][346]AssetCheck: New page: Asset Save: National_Art_Gallery_anu_sofa_geo_Leather_mat_0_001
+[2024.04.19-22.44.06:144][346]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_001.National_Art_Gallery_anu_sofa_geo_Leather_mat_0_001
+[2024.04.19-22.44.12:498][614]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/1_Level/1_Model/National_Art_Gallery_anu_Plane) ...
+[2024.04.19-22.44.14:185][680]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Plane
+[2024.04.19-22.44.14:185][680]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Plane37A64CE5425F5EF70C144CAFB478D19C.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Plane.uasset'
+[2024.04.19-22.44.14:198][680]AssetCheck: New page: Asset Save: National_Art_Gallery_anu_Plane
+[2024.04.19-22.44.14:198][680]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Plane.National_Art_Gallery_anu_Plane
+[2024.04.19-22.44.17:712][825]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_004.National_Art_Gallery_anu_sofa_geo_Leather_mat_0_004
+[2024.04.19-22.44.17:733][825]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.44.17:947][825]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.44.22:715][978]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_004) ...
+[2024.04.19-22.44.24:664][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.04.19-22.44.24:998][ 35]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_004
+[2024.04.19-22.44.24:999][ 35]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_sofa_geD3F4038D440A6B4725F0FAA15B41B08A.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_004.uasset'
+[2024.04.19-22.44.27:228][ 35]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.04.19-22.44.27:420][ 35]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005032s (0.368450s overbudget)
+[2024.04.19-22.44.27:444][ 35]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished
+[2024.04.19-22.44.27:445][ 35]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/M_Wood_Floor_Walnut_Polished3BC3E0F946FBDC356E066D83038C8950.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset'
+[2024.04.19-22.44.27:454][ 35]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-22.44.27:454][ 35]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_004.National_Art_Gallery_anu_sofa_geo_Leather_mat_0_004
+[2024.04.19-22.44.27:454][ 35]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished
+[2024.04.19-22.44.30:278][121]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_006.National_Art_Gallery_anu_sofa_geo_Leather_mat_0_006
+[2024.04.19-22.44.30:301][121]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.44.30:533][121]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.44.35:357][250]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_006) ...
+[2024.04.19-22.44.37:488][293]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_006
+[2024.04.19-22.44.37:488][293]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_sofa_geDA33F8204F62D0B7FE61DE850D58E385.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_006.uasset'
+[2024.04.19-22.44.37:501][293]AssetCheck: New page: Asset Save: National_Art_Gallery_anu_sofa_geo_Leather_mat_0_006
+[2024.04.19-22.44.37:501][293]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_sofa_geo_Leather_mat_0_006.National_Art_Gallery_anu_sofa_geo_Leather_mat_0_006
+[2024.04.19-22.44.49:567][623]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_001.National_Art_Gallery_anu_Cylinder_001
+[2024.04.19-22.44.49:589][623]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.44.49:840][623]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.44.55:575][756]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_001) ...
+[2024.04.19-22.44.57:545][799]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_001
+[2024.04.19-22.44.57:545][799]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Cylinde28DA12DF4BE28C9268E8EABF029F3A52.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_001.uasset'
+[2024.04.19-22.44.57:556][799]AssetCheck: New page: Asset Save: National_Art_Gallery_anu_Cylinder_001
+[2024.04.19-22.44.57:556][799]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_001.National_Art_Gallery_anu_Cylinder_001
+[2024.04.19-22.45.01:649][896]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.45.01:649][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.45.02:568][921]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.45.02:568][921]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.45.03:146][940]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.45.03:146][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.45.03:677][962]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.45.03:677][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.45.04:135][988]LogSlate: Window 'National_Art_Gallery_anu_Cylinder_001' being destroyed
+[2024.04.19-22.45.04:164][988]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.45.04:164][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.45.08:540][248]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube.National_Art_Gallery_anu_Cube
+[2024.04.19-22.45.08:618][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.45.08:824][248]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.45.12:810][478]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/1_Level/1_Model/National_Art_Gallery_anu_Cube) ...
+[2024.04.19-22.45.20:379][924]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube
+[2024.04.19-22.45.20:380][924]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Cube2518DE3C4EEFA65D89B314A38D743C7D.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Cube.uasset'
+[2024.04.19-22.45.20:389][924]AssetCheck: New page: Asset Save: National_Art_Gallery_anu_Cube
+[2024.04.19-22.45.20:389][924]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube.National_Art_Gallery_anu_Cube
+[2024.04.19-22.45.22:464][ 47]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube_001.National_Art_Gallery_anu_Cube_001
+[2024.04.19-22.45.22:488][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.45.22:687][ 47]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.45.29:452][354]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube_001
+[2024.04.19-22.45.29:452][354]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Cube_00D73C92BB4920A03B928A17B72C047E94.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Cube_001.uasset'
+[2024.04.19-22.45.29:466][354]AssetCheck: New page: Asset Save: National_Art_Gallery_anu_Cube_001
+[2024.04.19-22.45.29:466][354]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube_001.National_Art_Gallery_anu_Cube_001
+[2024.04.19-22.45.32:339][488]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube_007.National_Art_Gallery_anu_Cube_007
+[2024.04.19-22.45.32:360][488]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.45.32:572][488]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.45.37:947][679]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube_007
+[2024.04.19-22.45.37:947][679]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Cube_00BA68860249E8DC28A0B5FDB6195772B7.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Cube_007.uasset'
+[2024.04.19-22.45.37:957][679]AssetCheck: New page: Asset Save: National_Art_Gallery_anu_Cube_007
+[2024.04.19-22.45.37:957][679]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube_007.National_Art_Gallery_anu_Cube_007
+[2024.04.19-22.45.40:411][771]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube_008.National_Art_Gallery_anu_Cube_008
+[2024.04.19-22.45.40:427][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.45.40:658][771]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.45.41:769][803]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube_008
+[2024.04.19-22.45.41:769][803]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Cube_00C5DBE80C4DFA39F8C4D70CB472486D96.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Cube_008.uasset'
+[2024.04.19-22.45.41:780][803]AssetCheck: New page: Asset Save: National_Art_Gallery_anu_Cube_008
+[2024.04.19-22.45.41:780][803]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube_008.National_Art_Gallery_anu_Cube_008
+[2024.04.19-22.45.48:485][  5]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube_008
+[2024.04.19-22.45.48:485][  5]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Cube_000007815C480F8B4BE93A25B79B6A86A2.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Cube_008.uasset'
+[2024.04.19-22.45.48:497][  5]AssetCheck: New page: Asset Save: National_Art_Gallery_anu_Cube_008
+[2024.04.19-22.45.48:498][  5]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube_008.National_Art_Gallery_anu_Cube_008
+[2024.04.19-22.45.52:259][123]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube_011.National_Art_Gallery_anu_Cube_011
+[2024.04.19-22.45.52:276][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.45.52:523][123]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.46.02:172][367]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/1_Level/1_Model/National_Art_Gallery_anu_Cube_011) ...
+[2024.04.19-22.46.03:778][403]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube_011
+[2024.04.19-22.46.03:778][403]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Cube_017689CA3C419396F378EEA3A435176D17.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Cube_011.uasset'
+[2024.04.19-22.46.03:792][403]AssetCheck: New page: Asset Save: National_Art_Gallery_anu_Cube_011
+[2024.04.19-22.46.03:792][403]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cube_011.National_Art_Gallery_anu_Cube_011
+[2024.04.19-22.46.06:265][467]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder.National_Art_Gallery_anu_Cylinder
+[2024.04.19-22.46.06:288][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.46.06:614][467]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.46.11:275][569]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder) ...
+[2024.04.19-22.46.12:660][597]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder
+[2024.04.19-22.46.12:660][597]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Cylinde0474DBB74AEE2611FE29899E65F044F7.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Cylinder.uasset'
+[2024.04.19-22.46.12:671][597]AssetCheck: New page: Asset Save: National_Art_Gallery_anu_Cylinder
+[2024.04.19-22.46.12:671][597]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder.National_Art_Gallery_anu_Cylinder
+[2024.04.19-22.46.15:595][662]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_002.National_Art_Gallery_anu_Cylinder_002
+[2024.04.19-22.46.15:616][662]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.46.15:942][662]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.46.54:129][402]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_002) ...
+[2024.04.19-22.46.55:447][425]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_002
+[2024.04.19-22.46.55:447][425]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_CylindeF950CFEB43237BFDAD8AD98E3D19B4EF.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_002.uasset'
+[2024.04.19-22.46.55:457][425]AssetCheck: New page: Asset Save: National_Art_Gallery_anu_Cylinder_002
+[2024.04.19-22.46.55:457][425]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_002.National_Art_Gallery_anu_Cylinder_002
+[2024.04.19-22.46.57:276][461]LogSlate: Window 'National_Art_Gallery_anu_Cylinder_002' being destroyed
+[2024.04.19-22.46.57:284][461]LogSlate: Window 'National_Art_Gallery_anu_Cylinder_002' being destroyed
+[2024.04.19-22.46.57:316][461]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.46.57:316][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.46.57:354][461]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.46.57:355][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.46.57:397][461]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.46.57:397][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.46.57:438][461]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.46.57:438][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.46.57:476][461]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.46.57:476][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.46.57:520][461]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.46.57:520][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.46.57:562][461]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.46.57:562][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.46.59:259][556]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_003.National_Art_Gallery_anu_Cylinder_003
+[2024.04.19-22.46.59:324][556]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.46.59:533][556]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.47.03:302][774]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_003) ...
+[2024.04.19-22.47.07:099][994]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_004.National_Art_Gallery_anu_Cylinder_004
+[2024.04.19-22.47.07:118][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.47.07:317][994]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.47.12:491][219]LogViewport: Scene viewport resized to 601x113, mode Windowed.
+[2024.04.19-22.47.15:306][373]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.47.17:304][460]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_005.National_Art_Gallery_anu_Cylinder_005
+[2024.04.19-22.47.17:327][460]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.47.17:534][460]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.47.21:480][596]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_005) ...
+[2024.04.19-22.47.24:593][703]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_006.National_Art_Gallery_anu_Cylinder_006
+[2024.04.19-22.47.24:610][703]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.47.24:841][703]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.47.29:348][831]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_006) ...
+[2024.04.19-22.47.32:454][917]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Layout_001.National_Art_Gallery_anu_Layout_001
+[2024.04.19-22.47.32:472][917]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.47.32:720][917]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.47.39:695][ 84]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Layout_002.National_Art_Gallery_anu_Layout_002
+[2024.04.19-22.47.39:715][ 84]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.47.39:982][ 84]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.47.46:269][213]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/1_Level/1_Model/National_Art_Gallery_anu_Layout_002) ...
+[2024.04.19-22.47.49:196][274]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Plane.National_Art_Gallery_anu_Plane
+[2024.04.19-22.47.49:214][274]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.47.49:487][274]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.47.52:206][325]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Plane_001.National_Art_Gallery_anu_Plane_001
+[2024.04.19-22.47.52:225][325]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.47.52:507][325]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.47.58:752][429]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/1_Level/1_Model/National_Art_Gallery_anu_Plane_001) ...
+[2024.04.19-22.48.01:038][468]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Plane_003.National_Art_Gallery_anu_Plane_003
+[2024.04.19-22.48.01:056][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.48.01:377][468]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.48.16:554][698]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Plane_004.National_Art_Gallery_anu_Plane_004
+[2024.04.19-22.48.16:580][698]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.48.16:879][698]LogViewport: Scene viewport resized to 1405x894, mode Windowed.
+[2024.04.19-22.48.22:798][779]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/1_Level/1_Model/National_Art_Gallery_anu_Plane_004) ...
+[2024.04.19-22.48.31:368][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.04.19-22.48.31:505][897]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_003
+[2024.04.19-22.48.31:506][897]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_CylindeFBDEF2E04195FB614D53A298AFAAC313.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_003.uasset'
+[2024.04.19-22.48.31:518][897]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_004
+[2024.04.19-22.48.31:519][897]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Cylinde2F214544417682592A19E7B654758246.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_004.uasset'
+[2024.04.19-22.48.31:547][897]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Plane_001
+[2024.04.19-22.48.31:548][897]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Plane_0D74CEB4A42547C261237A4966949C816.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Plane_001.uasset'
+[2024.04.19-22.48.31:565][897]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Plane_003
+[2024.04.19-22.48.31:566][897]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Plane_04E4BDBD44F0D30CF66DE9787B9E0498A.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Plane_003.uasset'
+[2024.04.19-22.48.31:580][897]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Plane_004
+[2024.04.19-22.48.31:580][897]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Plane_058D59B0E42B722AD58DE52AB1DB35DE4.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Plane_004.uasset'
+[2024.04.19-22.48.31:592][897]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Layout_002
+[2024.04.19-22.48.31:592][897]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Layout_3EF1C9B74E98F90D51B8CCBDEC7DC1A7.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Layout_002.uasset'
+[2024.04.19-22.48.31:603][897]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Layout_001
+[2024.04.19-22.48.31:603][897]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Layout_04E4E1574A28B78A848366BADA40E678.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Layout_001.uasset'
+[2024.04.19-22.48.31:619][897]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_005
+[2024.04.19-22.48.31:620][897]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_Cylinde935E5BDB415AF10F67CB55B411440BCA.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_005.uasset'
+[2024.04.19-22.48.31:655][897]LogSavePackage: Moving output files for package: /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_006
+[2024.04.19-22.48.31:655][897]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/National_Art_Gallery_anu_CylindeB8B8F67F4CDB259550F2968AA05945C8.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_006.uasset'
+[2024.04.19-22.48.31:668][897]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-22.48.31:668][897]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_006.National_Art_Gallery_anu_Cylinder_006
+[2024.04.19-22.48.31:668][897]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_005.National_Art_Gallery_anu_Cylinder_005
+[2024.04.19-22.48.31:668][897]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Layout_001.National_Art_Gallery_anu_Layout_001
+[2024.04.19-22.48.31:668][897]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Layout_002.National_Art_Gallery_anu_Layout_002
+[2024.04.19-22.48.31:668][897]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Plane_004.National_Art_Gallery_anu_Plane_004
+[2024.04.19-22.48.31:668][897]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Plane_003.National_Art_Gallery_anu_Plane_003
+[2024.04.19-22.48.31:668][897]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Plane_001.National_Art_Gallery_anu_Plane_001
+[2024.04.19-22.48.31:668][897]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_004.National_Art_Gallery_anu_Cylinder_004
+[2024.04.19-22.48.31:668][897]LogContentValidation: Display: Validating StaticMesh /Game/1_Level/1_Model/National_Art_Gallery_anu_Cylinder_003.National_Art_Gallery_anu_Cylinder_003
+[2024.04.19-22.48.34:294][936]LogViewport: Scene viewport resized to 1526x331, mode Windowed.
+[2024.04.19-22.48.34:543][939]LogViewport: Scene viewport resized to 1526x455, mode Windowed.
+[2024.04.19-22.48.34:763][942]LogViewport: Scene viewport resized to 1526x502, mode Windowed.
+[2024.04.19-22.48.34:914][944]LogViewport: Scene viewport resized to 1526x562, mode Windowed.
+[2024.04.19-22.48.35:076][946]LogViewport: Scene viewport resized to 1526x581, mode Windowed.
+[2024.04.19-22.48.35:241][948]LogViewport: Scene viewport resized to 1526x590, mode Windowed.
+[2024.04.19-22.48.37:415][977]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.19-22.48.37:419][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-22.48.37:419][977]PIE: New page: PIE session: 1 (20-Apr-2024, 9:48:37 am)
+[2024.04.19-22.48.37:419][977]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_1
+[2024.04.19-22.48.37:423][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003268s)
+[2024.04.19-22.48.37:423][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/1.1 to /Game/UEDPIE_0_1.1 (0.003371s)
+[2024.04.19-22.48.37:423][977]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.04.19-22.48.37:423][977]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-22.48.37:424][977]LogAIModule: Creating AISystem for world 1
+[2024.04.19-22.48.37:424][977]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2024.04.19-22.48.37:430][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.04.19-22.48.37:431][977]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.04.19-22.48.37:431][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-22.48.37:431][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-22.48.37:431][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-22.48.37:431][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-22.48.37:431][977]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.19-22.48.37:431][977]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.19-22.48.37:431][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.19-22.48.37:431][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-22.48.37:432][977]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-22.48.37:432][977]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-22.48.37:432][977]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-22.48.37:433][977]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-22.48.37:454][977]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.04.19-22.48.37:454][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-22.48.37:454][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-22.48.37:454][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-22.48.37:455][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.04.19-22.48.37:455][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.04.19-22.48.37:456][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.04.19-22.48.37:456][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.04.19-22.48.37:456][977]LogInit: FAudioDevice initialized.
+[2024.04.19-22.48.37:456][977]LogAudio: Display: Audio Device (ID: 6) registered with world '1'.
+[2024.04.19-22.48.37:502][977]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.19-22.48.37:504][977]LogWorld: Bringing World /Game/UEDPIE_0_1.1 up for play (max tick rate 60) at 2024.04.20-04.18.37
+[2024.04.19-22.48.37:504][977]LogWorld: Bringing up level for play took: 0.001486
+[2024.04.19-22.48.37:505][977]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.04.19-22.48.37:507][977]PIE: Server logged in
+[2024.04.19-22.48.37:507][977]PIE: Play in editor total start time 0.088 seconds.
+[2024.04.19-22.48.38:524][979]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.061392 > MaxSimulationTimeStep (0.050) for 'BP_FirstPersonCharacter_C_1', movement 'Walking'
+[2024.04.19-22.49.23:923][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-22.49.23:923][688]LogWorld: BeginTearingDown for /Game/UEDPIE_0_1
+[2024.04.19-22.49.23:924][688]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-22.49.23:924][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.49.23:940][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-22.49.23:942][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-22.49.23:950][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-22.49.23:950][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.19-22.49.23:951][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.04.19-22.49.23:955][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.04.19-22.49.24:161][689]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.04.19-22.49.26:047][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.04.19-22.49.28:362][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/1" FILE="C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.19-22.49.28:367][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2024.04.19-22.49.28:377][729]LogSavePackage: Moving output files for package: /Game/1
+[2024.04.19-22.49.28:377][729]LogSavePackage: Moving 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Saved/187AF28624492A7690AB64D8EDEB9F2AA.tmp' to 'C:/Users/Aniket/Documents/Unreal Projects/Web_Art/Content/1.umap'
+[2024.04.19-22.49.28:399][729]LogFileHelpers: No new changes to save!
+[2024.04.19-22.49.28:409][729]AssetCheck: New page: Asset Save: 1
+[2024.04.19-22.49.28:409][729]LogContentValidation: Display: Validating World /Game/1.1
+[2024.04.19-22.49.44:400][944]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.19-22.49.44:412][944]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.19-22.49.44:419][945]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.19-22.49.48:974][  7]LogContentBrowser: Attempting asset rename: NewFolder -> 1Painting
+[2024.04.19-22.49.48:976][  7]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.19-22.49.55:762][ 99]LogContentBrowser: Attempting asset rename: 1Painting -> 1_Painting
+[2024.04.19-22.53.16:970][821]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Mivi DuoPods M20), InstanceID=1
+[2024.04.19-22.53.16:983][822]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=34060
+[2024.04.19-22.53.18:980][848]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{9dec7f3b-09f4-44a9-90d7-294223853629}, Name=Headphones (Mivi DuoPods M20)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=1941.44
+[2024.04.19-22.53.18:981][848]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.19-22.53.18:985][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.04.19-22.56.10:458][162]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.04.19-22.56.10:531][163]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=34060
+[2024.04.19-22.56.15:125][224]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{1088ed0f-83ce-444c-8597-9e6d9e5d2caf}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=4576.65
+[2024.04.19-22.56.15:125][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.04.19-22.56.15:129][225]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
