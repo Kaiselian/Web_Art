@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\web_browser\\plugins\\blueprintjson\\intermediate\\build\\win64\\unrealeditor\\development\\blueprintjson\\module.blueprintjson.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\web_browser\\intermediate\\build\\win64\\web_browsereditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\web_browser\\plugins\\blueprintjson\\intermediate\\build\\win64\\unrealeditor\\development\\blueprintjson\\definitions.blueprintjson.h",
+            "e:\\unreal projects\\web_browser\\plugins\\blueprintjson\\source\\blueprintjson\\private\\blueprintjsonlibrary.cpp",
+            "e:\\unreal projects\\web_browser\\plugins\\blueprintjson\\source\\blueprintjson\\classes\\blueprintjsonlibrary.h",
+            "e:\\unreal projects\\web_browser\\plugins\\blueprintjson\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintjson\\blueprintjsonlibrary.generated.h",
+            "e:\\unreal projects\\web_browser\\plugins\\blueprintjson\\source\\blueprintjson\\private\\blueprintjsonmodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

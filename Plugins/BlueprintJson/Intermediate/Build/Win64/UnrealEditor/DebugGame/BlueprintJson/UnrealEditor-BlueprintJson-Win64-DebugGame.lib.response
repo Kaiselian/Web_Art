@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BlueprintJson-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\Unreal2.0\Unreal2.0-AndroidMetaverse\Plugins\BlueprintJson\Intermediate\Build\Win64\UnrealEditor\DebugGame\BlueprintJson\Module.BlueprintJson.cpp.obj"
+"D:\Unreal2.0\Unreal2.0-AndroidMetaverse\Plugins\BlueprintJson\Intermediate\Build\Win64\UnrealEditor\DebugGame\BlueprintJson\Module.BlueprintJson.gen.cpp.obj"
+"..\Intermediate\Build\Win64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"D:\Unreal2.0\Unreal2.0-AndroidMetaverse\Plugins\BlueprintJson\Intermediate\Build\Win64\UnrealEditor\DebugGame\BlueprintJson\UnrealEditor-BlueprintJson-Win64-DebugGame.lib"

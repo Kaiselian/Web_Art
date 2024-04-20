@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal2.0\\unreal2.0-androidmetaverse\\plugins\\blueprintjson\\intermediate\\build\\win64\\unrealeditor\\debuggame\\blueprintjson\\module.blueprintjson.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue_src\\ue\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal2.0\\unreal2.0-androidmetaverse\\plugins\\blueprintjson\\intermediate\\build\\win64\\unrealeditor\\debuggame\\blueprintjson\\definitions.blueprintjson.h",
+            "d:\\unreal2.0\\unreal2.0-androidmetaverse\\plugins\\blueprintjson\\source\\blueprintjson\\private\\blueprintjsonlibrary.cpp",
+            "d:\\unreal2.0\\unreal2.0-androidmetaverse\\plugins\\blueprintjson\\source\\blueprintjson\\classes\\blueprintjsonlibrary.h",
+            "d:\\unreal2.0\\unreal2.0-androidmetaverse\\plugins\\blueprintjson\\intermediate\\build\\win64\\unrealeditor\\inc\\blueprintjson\\blueprintjsonlibrary.generated.h",
+            "d:\\unreal2.0\\unreal2.0-androidmetaverse\\plugins\\blueprintjson\\source\\blueprintjson\\private\\blueprintjsonmodule.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

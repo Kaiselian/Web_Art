@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal projects\\web_browser\\plugins\\httprequest\\intermediate\\build\\win64\\unrealgame\\development\\httprequestforblueprints\\module.httprequestforblueprints.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal projects\\web_browser\\intermediate\\build\\win64\\web_browser\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\unreal projects\\web_browser\\plugins\\httprequest\\intermediate\\build\\win64\\unrealgame\\development\\httprequestforblueprints\\definitions.httprequestforblueprints.h",
+            "e:\\unreal projects\\web_browser\\plugins\\httprequest\\source\\httprequestforblueprints\\private\\httprequestclient.cpp",
+            "e:\\unreal projects\\web_browser\\plugins\\httprequest\\source\\httprequestforblueprints\\public\\httprequestclient.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h",
+            "e:\\unreal projects\\web_browser\\plugins\\httprequest\\intermediate\\build\\win64\\unrealgame\\inc\\httprequestforblueprints\\httprequestclient.generated.h",
+            "e:\\unreal projects\\web_browser\\plugins\\httprequest\\source\\httprequestforblueprints\\private\\httprequestforblueprints.cpp",
+            "e:\\unreal projects\\web_browser\\plugins\\httprequest\\source\\httprequestforblueprints\\public\\httprequestforblueprints.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

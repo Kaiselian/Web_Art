@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-BlueprintJson.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\Unreal Projects\Web_Browser\Intermediate\Build\Win64\Web_BrowserEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\Unreal Projects\Web_Browser\Plugins\BlueprintJson\Intermediate\Build\Win64\UnrealEditor\Development\BlueprintJson\Module.BlueprintJson.cpp.obj"
+"E:\Unreal Projects\Web_Browser\Plugins\BlueprintJson\Intermediate\Build\Win64\UnrealEditor\Development\BlueprintJson\Module.BlueprintJson.gen.cpp.obj"
+"E:\Unreal Projects\Web_Browser\Plugins\BlueprintJson\Intermediate\Build\Win64\UnrealEditor\Development\BlueprintJson\Default.rc2.res"
+/OUT:"E:\Unreal Projects\Web_Browser\Plugins\BlueprintJson\Intermediate\Build\Win64\UnrealEditor\Development\BlueprintJson\UnrealEditor-BlueprintJson.lib"

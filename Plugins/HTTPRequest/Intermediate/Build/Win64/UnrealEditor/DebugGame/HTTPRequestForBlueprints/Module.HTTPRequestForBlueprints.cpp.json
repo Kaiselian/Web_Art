@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal2.0\\unreal2.0-androidmetaverse\\plugins\\httprequest\\intermediate\\build\\win64\\unrealeditor\\debuggame\\httprequestforblueprints\\module.httprequestforblueprints.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue_src\\ue\\engine\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal2.0\\unreal2.0-androidmetaverse\\plugins\\httprequest\\intermediate\\build\\win64\\unrealeditor\\debuggame\\httprequestforblueprints\\definitions.httprequestforblueprints.h",
+            "d:\\unreal2.0\\unreal2.0-androidmetaverse\\plugins\\httprequest\\source\\httprequestforblueprints\\private\\httprequestclient.cpp",
+            "d:\\unreal2.0\\unreal2.0-androidmetaverse\\plugins\\httprequest\\source\\httprequestforblueprints\\public\\httprequestclient.h",
+            "e:\\ue_src\\ue\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "e:\\ue_src\\ue\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "e:\\ue_src\\ue\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "e:\\ue_src\\ue\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h",
+            "d:\\unreal2.0\\unreal2.0-androidmetaverse\\plugins\\httprequest\\intermediate\\build\\win64\\unrealeditor\\inc\\httprequestforblueprints\\httprequestclient.generated.h",
+            "d:\\unreal2.0\\unreal2.0-androidmetaverse\\plugins\\httprequest\\source\\httprequestforblueprints\\private\\httprequestforblueprints.cpp",
+            "d:\\unreal2.0\\unreal2.0-androidmetaverse\\plugins\\httprequest\\source\\httprequestforblueprints\\public\\httprequestforblueprints.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
